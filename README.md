@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/gulshan4758/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/gulshan4758/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/gulshan4758/leetcode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/gulshan4758/leetcode/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/gulshan4758/leetcode/tree/master/0242-valid-anagram) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/gulshan4758/leetcode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/gulshan4758/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
