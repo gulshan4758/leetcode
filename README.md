@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/gulshan4758/leetcode/tree/master/0412-fizz-buzz) |
+| [3870-count-commas-in-range](https://github.com/gulshan4758/leetcode/tree/master/3870-count-commas-in-range) |
 ## Simulation
 |  |
 | ------- |
