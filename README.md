@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gulshan4758/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/gulshan4758/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/gulshan4758/leetcode/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/gulshan4758/leetcode/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/gulshan4758/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/gulshan4758/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/gulshan4758/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -84,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/gulshan4758/leetcode/tree/master/0206-reverse-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/gulshan4758/leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/gulshan4758/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
