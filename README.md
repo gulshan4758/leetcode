@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gulshan4758/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0079-word-search](https://github.com/gulshan4758/leetcode/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/gulshan4758/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/gulshan4758/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/gulshan4758/leetcode/tree/master/0412-fizz-buzz) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/gulshan4758/leetcode/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/gulshan4758/leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/gulshan4758/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/gulshan4758/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/gulshan4758/leetcode/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/gulshan4758/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/gulshan4758/leetcode/tree/master/0283-move-zeroes) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/gulshan4758/leetcode/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/gulshan4758/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/gulshan4758/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/gulshan4758/leetcode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/gulshan4758/leetcode/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/gulshan4758/leetcode/tree/master/0079-word-search) |
 ## Algorithm X
 |  |
 | ------- |
@@ -111,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/gulshan4758/leetcode/tree/master/0037-sudoku-solver) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/gulshan4758/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
