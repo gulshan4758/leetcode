@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/gulshan4758/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gulshan4758/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/gulshan4758/leetcode/tree/master/0037-sudoku-solver) |
+| [0146-lru-cache](https://github.com/gulshan4758/leetcode/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/gulshan4758/leetcode/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/gulshan4758/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/gulshan4758/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0146-lru-cache](https://github.com/gulshan4758/leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/gulshan4758/leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -135,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/gulshan4758/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/gulshan4758/leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/gulshan4758/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
