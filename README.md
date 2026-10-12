@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/gulshan4758/leetcode/tree/master/0037-sudoku-solver) |
 | [0146-lru-cache](https://github.com/gulshan4758/leetcode/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/gulshan4758/leetcode/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/gulshan4758/leetcode/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/gulshan4758/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/gulshan4758/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/gulshan4758/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/gulshan4758/leetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/gulshan4758/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/gulshan4758/leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/gulshan4758/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -146,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/gulshan4758/leetcode/tree/master/0146-lru-cache) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/gulshan4758/leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/gulshan4758/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
